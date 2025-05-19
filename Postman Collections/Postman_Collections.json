@@ -177,7 +177,10 @@
 							"//two",
 							"//3",
 							"",
-							"//hello"
+							"//hello",
+							"//world",
+							"//hello world",
+							"//hi you"
 						],
 						"type": "text/javascript",
 						"packages": {}
